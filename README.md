@@ -24,3 +24,6 @@ Here are some ideas to get you started:
   <img src="./images/fleur2.webp" width="50px" height="50px"/>
   </h1>
 </div>
+
+## A propos de moi 👀
+* Je suis étudiante en 2ème année de **BUT Informatique** à l'IUT Robert Schuman, Illkirch-Graffenstaden
