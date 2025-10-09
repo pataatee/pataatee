@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **pataatee/pataatee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
   <img src="./images/fleur2.webp" width="50px" height="50px"/>
  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster&duration=4896&pause=1000&color=CC72FF&center=true&vCenter=true&width=435&lines=Hellooo+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=32&duration=4896&pause=1000&color=CC72FF&center=true&vCenter=true&width=435&lines=Hellooo+%E2%9C%A8" alt="Typing SVG" />
   </a>
   
   <img src="./images/fleur2.webp" width="50px" height="50px"/>
