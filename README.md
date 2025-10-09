@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 
 ## A propos de moi 👀
 * Je suis étudiante en 2ème année de **BUT Informatique** à l'IUT Robert Schuman, Illkirch-Graffenstaden
+* J'aime dormir, mon lit, mon oreiller, et... encore dormir
+* J'adore les plantes (en Lego, c'est encore mieux :D) 🌺
+* Je suis moins efficace sans ma musique
+* Jeux vidéo, lire, dessiner... c'est fun tout ça :)
