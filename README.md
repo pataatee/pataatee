@@ -31,3 +31,28 @@ Here are some ideas to get you started:
 * J'adore les plantes (en Lego, c'est encore mieux :D) 🌺
 * Je suis moins efficace sans ma musique
 * Jeux vidéo, lire, dessiner... c'est fun tout ça :)
+
+
+## Compétences
+### Langages
+<div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,c,cs,html,css,javascript,php,python,sqlite,&theme=dark" />
+    </a>
+</div>
+
+### Outils
+<div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,idea,unity,vscodium,vim,github,gitlab,&theme=dark" />
+    </a>
+</div>
+
+## Mon GitHub
+Ici, vous trouverez des projets liés à ma formation, mais aussi quelques projets personnels que je réalise de mon côté :D
+En voici quelques uns...
+- *[Proj1]()*
+- *[Proj2]()*
+- *[Proj3]()*
+
+## Statistiques
