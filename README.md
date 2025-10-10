@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 * J'adore les plantes (en Lego, c'est encore mieux :D) 🌺
 * Je suis moins efficace sans ma musique
 * Jeux vidéo, lire, dessiner... c'est fun tout ça :)
+* J'aime les do while et le Java. Posez pas de questions
 
 
 ## Compétences
