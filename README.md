@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 ## Mon GitHub
 Ici, vous trouverez des projets liés à ma formation, mais aussi quelques projets personnels que je réalise de mon côté :D
 En voici quelques uns...
-- *[Proj1]()*
+- [DOOnjons et Dragons 🐉](https://github.com/pataatee/DOOnjons-et-Dragons)
+> Projet réalisé durant ma **formation** dans le cadre des cours de POO
 - *[Proj2]()*
 - *[Proj3]()*
 
