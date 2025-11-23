@@ -13,17 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <h1>
-  <img src="./images/fleur2.webp" width="50px" height="50px"/>
- 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=32&duration=4896&pause=1000&color=CC72FF&center=true&vCenter=true&width=435&lines=Hellooo+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-  
-  <img src="./images/fleur2.webp" width="50px" height="50px"/>
-  </h1>
-</div>
+![flower](./images/flowers.png)
+<br> <br> <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=450&size=50&duration=1800&pause=1000&color=5C11B1&repeat=false&width=435&height=70&lines=Helloooo+%3AD)](https://git.io/typing-svg)
 
 ## A propos de moi 👀
 * Je suis étudiante en 2ème année de **BUT Informatique** à l'IUT Robert Schuman, Illkirch-Graffenstaden
