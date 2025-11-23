@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=450&size=50&duration=1800&pause=1000&color=5C11B1&center=true&repeat=false&width=1000&height=70&lines=Helloooo+%3AD)](https://git.io/typing-svg)
 
 ## A propos de moi 👀
-* Je suis étudiante en 2ème année de **BUT Informatique** à l'IUT Robert Schuman, Illkirch-Graffenstaden
-* J'aime dormir, mon lit, mon oreiller, et... encore dormir
-* J'adore les plantes (en Lego, c'est encore mieux :D) 🌺
-* Je suis moins efficace sans ma musique
-* Jeux vidéo, lire, dessiner... c'est fun tout ça :)
-* J'aime les do while et le Java. Posez pas de questions
+* 🏢 Je suis étudiante en 2ème année de **BUT Informatique** à l'IUT Robert Schuman, Illkirch-Graffenstaden
+* 💤 J'aime dormir, mon lit, mon oreiller, et... encore dormir
+* 🌺 J'adore les plantes (en Lego, c'est encore mieux :D)
+* 🎶 Je suis moins efficace sans ma musique
+* 🎮 Jeux vidéo, lire, dessiner... c'est fun tout ça :)
+* 😶 J'aime les do while et le Java. Posez pas de questions
 
 
-## Compétences
+## Compétences 🛠️
 ### Langages
 <div align="center">
     <a href="https://skillicons.dev">
@@ -50,3 +50,4 @@ En voici quelques uns...
 - *[Proj3]()*
 
 ## Statistiques
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pataatee&layout=compact&hide=html,tex,jupyter%20notebook&show_icons=true&theme=synthwave&hide_border=true&border_radius=25)
