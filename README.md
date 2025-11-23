@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![flower](./images/flowers.png)
 <br> <br> <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=450&size=50&duration=1800&pause=1000&color=5C11B1&repeat=false&width=435&height=70&lines=Helloooo+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=450&size=50&duration=1800&pause=1000&color=5C11B1&center=true&repeat=false&width=1000&height=70&lines=Helloooo+%3AD)](https://git.io/typing-svg)
 
 ## A propos de moi 👀
 * Je suis étudiante en 2ème année de **BUT Informatique** à l'IUT Robert Schuman, Illkirch-Graffenstaden
