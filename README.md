@@ -42,22 +42,24 @@ Here are some ideas to get you started:
 </div>
 
 ## Mon GitHub 👀
-Ici, vous trouverez des projets liés à ma formation, mais aussi quelques projets personnels que je réalise de mon côté :D
+Ici, vous trouverez des projets liés à ma formation, mais aussi quelques projets personnels que je réalise de mon côté :D <br>
 En voici quelques uns... <br> <br>
 ![DnD](https://github-readme-stats.vercel.app/api/pin/?username=pataatee&repo=DOOnjons-et-Dragons&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=25)
 - *[Proj2]()*
 - *[Proj3]()*
 
 ## Statistiques 📈
+<br>
 <div align="center">
+    <img
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pataatee&layout=compact&hide=html,tex,jupyter%20notebook&show_icons=true&theme=midnight-purple&hide_border=false&border_radius=25"
+       alt="Most used languages"
+    >
+  <br><br>
   <img 
        src="https://github-readme-stats.vercel.app/api?username=pataatee&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"
        alt="Stats"
-  >
-  <br><br>
-  <img
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pataatee&layout=compact&hide=html,tex,jupyter%20notebook&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=25"
-       alt="Most used languages"
-  >
+  > 
+
 </div>
 
