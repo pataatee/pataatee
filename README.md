@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br> <br> <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=450&size=50&duration=1800&pause=1000&color=5C11B1&center=true&repeat=false&width=1000&height=70&lines=Helloooo+%3AD)](https://git.io/typing-svg)
 
-## A propos de moi 👀
+## A propos de moi 🦕
 * 🏢 Je suis étudiante en 2ème année de **BUT Informatique** à l'IUT Robert Schuman, Illkirch-Graffenstaden
 * 💤 J'aime dormir, mon lit, mon oreiller, et... encore dormir
 * 🌺 J'adore les plantes (en Lego, c'est encore mieux :D)
@@ -34,20 +34,30 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-### Outils
+### Outils & Frameworks 
 <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,idea,unity,vscodium,vim,github,gitlab,&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,idea,unity,vscodium,vim,github,gitlab,laravel,&theme=dark" />
     </a>
 </div>
 
-## Mon GitHub
+## Mon GitHub 👀
 Ici, vous trouverez des projets liés à ma formation, mais aussi quelques projets personnels que je réalise de mon côté :D
-En voici quelques uns...
-- [DOOnjons et Dragons 🐉](https://github.com/pataatee/DOOnjons-et-Dragons)
-> Projet réalisé durant ma **formation** dans le cadre des cours de POO
+En voici quelques uns... <br> <br>
+![DnD](https://github-readme-stats.vercel.app/api/pin/?username=pataatee&repo=DOOnjons-et-Dragons&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=25)
 - *[Proj2]()*
 - *[Proj3]()*
 
-## Statistiques
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pataatee&layout=compact&hide=html,tex,jupyter%20notebook&show_icons=true&theme=synthwave&hide_border=true&border_radius=25)
+## Statistiques 📈
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=pataatee&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"
+       alt="Stats"
+  >
+  <br><br>
+  <img
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pataatee&layout=compact&hide=html,tex,jupyter%20notebook&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=25"
+       alt="Most used languages"
+  >
+</div>
+
