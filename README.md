@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 Ici, vous trouverez des projets liés à ma formation, mais aussi quelques projets personnels que je réalise de mon côté :D <br>
 En voici quelques uns... <br> <br>
 ![DnD](https://github-readme-stats.vercel.app/api/pin/?username=pataatee&repo=DOOnjons-et-Dragons&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=25)
-- *[SimulationReseauC]()*
-- *[SudokuAssembly]()*
+- ![SimulationReseauC](https://github.com/pataatee/LAN-Simulation)
+- [SudokuAssembly]()
 
 ## Statistiques 📈
 <br>
