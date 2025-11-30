@@ -48,7 +48,9 @@ En voici quelques uns... <br> <br>
 - ![LAN-Simulation](https://github.com/pataatee/LAN-Simulation)
     - Simulation d'un **réseau LAN** en C
     - Projet réalisé dans le cadre de mes **études**
-- [SudokuAssembly]()
+- [Sudoku-ASM](https://github.com/pataatee/Sudoku-ASM)
+  - Résolveur de **sudoku** en **assembleur** *(MIPS32)*
+  - Projet réalisé dans le cadre de mes **études**
 
 ## Statistiques 📈
 <br>
