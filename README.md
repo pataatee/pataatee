@@ -44,15 +44,19 @@ Here are some ideas to get you started:
 ## Mon GitHub 👀
 Ici, vous trouverez des projets liés à ma formation, mais aussi quelques projets personnels que je réalise de mon côté :D <br>
 En voici quelques uns... <br> <br>
-<a href="https://github.com/pataatee/DOOnjons-et-Dragons">
-      <img width=400 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=pataatee&repo=DOOnjons-et-Dragons&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=25">
-</a>
-- ![LAN-Simulation](https://github.com/pataatee/LAN-Simulation)
-    - Simulation d'un **réseau LAN** en C
-    - Projet réalisé dans le cadre de mes **études**
-- [Sudoku-ASM](https://github.com/pataatee/Sudoku-ASM)
-  - Résolveur de **sudoku** en **assembleur** *(MIPS32)*
-  - Projet réalisé dans le cadre de mes **études**
+<p align="center">
+    <a href="https://github.com/pataatee/DOOnjons-et-Dragons" style="text-decoration: none;">
+          <img width=400 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=pataatee&repo=DOOnjons-et-Dragons&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=25">
+    </a>
+</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://github.com/pataatee/LAN-Simulation" style="text-decoration: none;">
+          <img width=400 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=pataatee&repo=LAN-Simulation&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=25">
+    </a>
+    <a href="https://github.com/pataatee/Sudoku-ASM" style="text-decoration: none;">
+          <img width=400 style="margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=pataatee&repo=Sudoku-ASM&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=25">
+    </a>
+</div>
 
 ## Statistiques 📈
 <br>
